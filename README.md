@@ -1,6 +1,6 @@
 # ImageIndicator
 
-[![](https://jitpack.io/v/ydxlt/DownButton.svg)](https://jitpack.io/#ydxlt/DownButton)
+[![](https://jitpack.io/v/ydxlt/ImageIndicator.svg)](https://jitpack.io/#ydxlt/ImageIndicator)
 
 一款多功能的炫酷的图片指示器，支持图片，颜色填充指示器:
 
@@ -21,7 +21,7 @@ Step 2. Add the dependency
 
 ## 演示效果
 
-![https://github.com/ydxlt/ImageIndicator/blob/master/images/demo.gif(https://github.com/ydxlt/ImageIndicator/blob/master/images/demo.gif)
+![https://github.com/ydxlt/ImageIndicator/blob/master/images/demo.gif](https://github.com/ydxlt/ImageIndicator/blob/master/images/demo.gif)
 
 ## 使用步骤
 
