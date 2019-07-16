@@ -21,6 +21,8 @@ Step 2. Add the dependency
 
 ## 演示效果
 
+![https://github.com/ydxlt/ImageIndicator/blob/master/images/demo.gif(https://github.com/ydxlt/ImageIndicator/blob/master/images/demo.gif)
+
 ## 使用步骤
 
 Step1：activity_main.xml
